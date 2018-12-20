@@ -1,0 +1,21 @@
+body{
+  background:gray;
+}
+div{
+  background: pink;
+  border:white;
+  border-width: 20px;
+  border-style: dashed;
+}
+h1{
+  text-align: center;
+  color:blue
+}
+p{
+  text-align: center;
+  color:green;
+}
+span{
+  background:yellow;
+  color: black;
+}

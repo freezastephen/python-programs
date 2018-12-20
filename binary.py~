@@ -1,0 +1,3 @@
+num=334
+print ("The decimal valueof:",num)
+print(bin(num),"in binary")

@@ -1,0 +1,10 @@
+n=5
+a=1
+b=1
+sum=0
+while(sum<n)
+  sum=a+b
+ a=b
+ b=c
+ printc
+    
